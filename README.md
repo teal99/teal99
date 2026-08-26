@@ -1,9 +1,9 @@
-### Hi, I'm Mac!
-I enjoy low-level programming and building virtual machines.
+### Hi, I'm Jay!
+I enjoy low-level programming. (with as little suffering as possible)
 
 ## 🛠️ Current Status
 ```csharp
-public class Mac {
+public class Me {
     public string ActiveProject { get; set; } = string.Empty;
     public string TechStack { get; set; } = "C++ | Rust | C#";
     public bool IsBuilding { get; set; } = true;
@@ -13,4 +13,4 @@ public class Mac {
 ```
 
 ## 🚀 Active Projects
-* 💾 **[Wait-For-It!]** - ...
+* 💾 **[...]** - ...
