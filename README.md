@@ -1,5 +1,6 @@
 ### Hi, I'm Jay!
 I enjoy low-level programming. (with as little suffering as possible)
+I've also recently deleted ALL of my repositories... I kind of wanted to start with another clean slate!
 
 ## 🛠️ Current Status
 ```csharp
