@@ -6,7 +6,7 @@ I've also recently deleted ALL of my repositories... I kind of wanted to start w
 ```csharp
 public class Me {
     public string ActiveProject { get; set; } = string.Empty;
-    public string TechStack { get; set; } = "C++ | Rust | C#";
+    public List<string> Languages { get; set; } = ["C++", "Rust", "C#"];
     public bool IsBuilding { get; set; } = true;
     
     protected internal bool _willProcrastinate = true; 
