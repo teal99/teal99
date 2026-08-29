@@ -5,11 +5,11 @@ I've also recently deleted ALL of my repositories... I kind of wanted to start w
 ## 🛠️ Current Status
 ```csharp
 public class Me {
-    public string ActiveProject { get; set; } = string.Empty;
-    public List<string> Languages { get; set; } = ["C++", "Rust", "C#"];
-    public bool IsBuilding { get; set; } = true;
+    public string LearningAbout { get; } = "APIs";
+    public List<string> Languages { get; } = ["Rust", "C#", "C++", "TS/JS", "Python"];
+    public bool IsBuilding { get; } = true;
     
-    protected internal bool _willProcrastinate = true; 
+    private bool _willProcrastinate = true;
 }
 ```
 
