@@ -52,3 +52,10 @@ int main() {
 
 Emojis are NOT an AI watermark.
 Sometimes, people just enjoy using emojis.
+
+## 📶 Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jayywashere&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayywashere&layout=compact&theme=transparent&hide_border=true" height="165"/>
+</p>
