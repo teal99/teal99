@@ -10,7 +10,7 @@ I REALLY like building small things, experimenting with weird ideas, and occasio
 public class Me
 {
     public bool IsBuilding { get; } = true;
-    private bool _willProcrastinate => Random.Shared.Next(0, 2) == 0;
+    public bool _willProcrastinate => Random.Shared.Next(0, 2) == 0;
 }
 ```
 
