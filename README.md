@@ -47,3 +47,8 @@ int main() {
 * How to make increasingly questionable programming decisions
 
 > **Maximize adaptability; minimize friction!**
+
+## 💡 Fun Fact
+
+Emojis are NOT an AI watermark.
+Sometimes, people just enjoy using emojis.
