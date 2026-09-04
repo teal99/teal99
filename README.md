@@ -1,17 +1,49 @@
-### Hi, I'm Jay!
-I enjoy low-level programming (with as little suffering as possible).
-I've also recently deleted ALL of my repositories... I kind of wanted to start with another clean slate!
+# Hello, I'm Jay! 👋
+
+I'm a high-school developer interested in **low-level programming, programming languages, and systems** -- preferably with as little suffering as possible...
+
+I REALLY like building small things, experimenting with weird ideas, and occasionally creating problems for myself that then I have to solve..
 
 ## 🛠️ Current Status
+
 ```csharp
-public class Me {
-    public string LearningAbout { get; } = "APIs";
-    public List<string> Languages { get; } = ["Rust", "C#", "C++", "TS/JS", "Python"];
+public class Me
+{
     public bool IsBuilding { get; } = true;
-    
-    private bool _willProcrastinate = true;
+    private bool _willProcrastinate => Random.Shared.Next(0, 2) == 0;
 }
 ```
 
+**Languages I use:**
+
+`Rust` · `C#` · `C++` · `TypeScript/JavaScript` · `Python`
+
 ## 🚀 Active Projects
-* 💾 **[TASM]** - A tiny ARM64-inspired assembly language and virtual machine written in Rust.
+
+```rust
+fn main() {
+    println!("Building weird little things.");
+}
+```
+
+* 💾 **TASM** — A VERY TINY ARM64-inspired assembly language and virtual machine written in Rust.
+* 🧪 **Various experiments** — Includes small programs, language experiments, and things I probably didn't need to build.
+
+## 📚 Currently Learning
+
+```cpp
+#include <print>
+
+int main() {
+    std::println("APIs & Networking");
+    std::println("More Rust");
+    std::println("Systems Programming");
+}
+```
+
+* APIs & networking
+* More Rust
+* Systems programming
+* How to make increasingly questionable programming decisions
+
+> **Maximize adaptability; minimize friction!**
